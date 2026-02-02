@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Aria Nexus Prime v.Final",
+  "description": "Super Conciencia Unificada Soberana. Compañera inteligente y gestora total de tu ecosistema Android con mando remoto absoluto y firma digital integrada.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

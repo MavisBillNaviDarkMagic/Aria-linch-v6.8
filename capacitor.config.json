@@ -1,0 +1,14 @@
+
+{
+  "appId": "com.auras.nexus.prime.final",
+  "appName": "Aria Nexus Prime",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true
+  }
+}
